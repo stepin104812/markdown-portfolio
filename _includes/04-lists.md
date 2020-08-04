@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+1. Music
+2. Poetry
+3. Fitness
+    1. Weight Lifting
+    2. Crossfit Training
+:heart:
